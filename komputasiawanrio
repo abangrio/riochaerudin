@@ -1,0 +1,9 @@
+from flask import Flask
+app = Flask (_name_)
+
+@app.route("/")
+  def hello ():
+    return " Hello saya Rio Chaerudin dari matakuliah komputasi awan 2019 IT Telkom Purwokerto"
+
+    if_name_ == "_main_":
+    app.run()
